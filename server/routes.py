@@ -30,3 +30,4 @@ def index():
         
     return render_template('books.html', books=books)
 
+# The name filter is implemented above.
