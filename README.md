@@ -1,7 +1,12 @@
-# Introduction to CodeQL — Übungslauf
+# Introduction to CodeQL
 
-Dieses Repository ist ein Fork des Skills-Kurses `introduction-to-codeql`.
+<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
-- Template-Flag deaktiviert, damit Step 0 nicht überspringt.
-- Issues aktiviert, damit Step 0 das Übungs-Issue anlegen kann.
-- Actions freigeschaltet, alle fünf Schritt-Workflows aktiv.
+Hey SFS-Labs!
+
+Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+
+Remember, it's self-paced so feel free to take a break! ☕️
+
+[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/SFS-Labs/skills-introduction-to-codeql/issues/1)
+
